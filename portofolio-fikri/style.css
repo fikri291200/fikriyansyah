@@ -1,0 +1,13 @@
+.jumbotron {
+  padding: 12rem;
+
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 2rem;
+}
+
+.bg-secondary {
+  margin-bottom: -20px;
+}
